@@ -26,6 +26,7 @@ h1 {
   font-family: Courier;
   font-size: 24pt;
   font-weight: normal; 
+  text-align: center;
 }
 
 a:link {
@@ -57,7 +58,7 @@ td {
 }
 
 footer {
-  padding-top: 64px;
   text-align: center;
+  padding-top: 32px;
   font-size: 16px;
 }
